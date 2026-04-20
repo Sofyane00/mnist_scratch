@@ -34,7 +34,7 @@ mnist_scratch/
 ├── outputs/
 │   ├── W.npy                  # Trained weights
 │   ├── b.npy                  # Trained bias
-│   ├── learning_curves.png    # Loss curve
+│   ├── learning_curve.png    # Loss curve
 │   └── confusion_matrix.png   # Confusion matrix
 ├── src/                       # (for future refactoring)
 ├── requirements.txt
